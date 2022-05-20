@@ -1,5 +1,4 @@
 //created by IT21215292
-
 #include "ApartmentOwner.h"
 #include <cstring>
 #include <iostream>
