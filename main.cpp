@@ -1,3 +1,4 @@
+//IT21214066
 #include <iostream>
 #include <cstring>
 
@@ -50,3 +51,19 @@ int main()
  Feedback* feedbacks; // Object  Feedback class
  feedbacks= new Feedback(); //  Feedback Calling
  feedbacks->getviewfeedback(); //Display  Feedback
+
+//----Delete Dynamic objects------
+ delete G1;
+ delete ApOw1 ;
+ delete C1;
+ delete a1 ;
+ delete p1 ;
+ delete Ac1 ;
+ delete r1 ;
+ delete Ap1;
+ delete feedbacks;
+
+  
+ return 0 ;
+ 
+}
