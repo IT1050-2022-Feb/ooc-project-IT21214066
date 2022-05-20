@@ -1,5 +1,4 @@
 //created by IT21215292
-
 #include "Apartment.h"
 #include <cstring>
 #include <iostream>
