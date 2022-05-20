@@ -1,5 +1,4 @@
 //created by IT21215292
-
 #include "Customer.h"
 class Apartment{
    protected:
